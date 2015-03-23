@@ -1,0 +1,7 @@
+-o
+/Users/Dhwani/workspace/gRPC/Lab2/grpc-java/compiler/build/binaries/java_pluginExecutable/java_plugin
+/Users/Dhwani/workspace/gRPC/Lab2/grpc-java/compiler/build/objs/java_pluginExecutable/java_pluginCpp/18zla0tx32bpsyf4efzgt8d02/java_plugin.o
+/Users/Dhwani/workspace/gRPC/Lab2/grpc-java/compiler/build/objs/java_pluginExecutable/java_pluginCpp/4e27yufvpdbullt2b0c4f7g5z/java_generator.o
+/Users/Dhwani/workspace/gRPC/Lab2/grpc-java/compiler/build/objs/java_pluginExecutable/java_pluginCpp/b1aqotawc7czb4hnbxkl7uqvx/java_generator.o
+-lprotoc
+-lprotobuf

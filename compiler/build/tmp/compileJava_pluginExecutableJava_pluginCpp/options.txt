@@ -1,0 +1,9 @@
+-x
+c++
+-std=c++11
+-c
+-I
+/Users/Dhwani/workspace/gRPC/Lab2/grpc-java/compiler/src/java_plugin/headers
+/Users/Dhwani/workspace/gRPC/Lab2/grpc-java/compiler/src/java_plugin/cpp/java_plugin.cpp
+-o
+/Users/Dhwani/workspace/gRPC/Lab2/grpc-java/compiler/build/objs/java_pluginExecutable/java_pluginCpp/18zla0tx32bpsyf4efzgt8d02/java_plugin.o
